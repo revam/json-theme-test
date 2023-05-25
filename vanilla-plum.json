@@ -1,0 +1,20 @@
+{
+  "name": "Vanilla Plum",
+  "description": "A joke theme that doesn't look that bad.",
+  "version": "0.1",
+  "author": "Mohan",
+  "values": {
+    "color-background": "232 227 215",
+    "color-background-alt": "228 224 209",
+    "color-background-nav": "235 230 218",
+    "color-background-border": "244 241 232",
+    "color-highlight-1": "196 130 246",
+    "color-highlight-2": "249 194 112",
+    "color-highlight-3": "0 173 173",
+    "color-highlight-4": "14 59 240",
+    "color-highlight-5": "83 141 10",
+    "color-font-main": "48 39 28",
+    "color-font-alt": "0 0 0"
+  },
+  "url": "https://raw.githubusercontent.com/revam/json-theme-test/stable/vanilla-plum.json"
+}
